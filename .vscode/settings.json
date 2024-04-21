@@ -1,0 +1,18 @@
+{
+    "editor.insertSpaces": true,
+    "eslint.alwaysShowStatus": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": true,
+      "source.organizeImports": true
+    },
+    "typescript.tsdk": "node_modules\\typescript\\lib",
+    "typescript.enablePromptUseWorkspaceTsdk": true,
+    "editor.formatOnSave": true,
+    "prettier.printWidth": 200,
+    "prettier.singleQuote": true,
+    "prettier.arrowParens": "always",
+    "prettier.endOfLine": "auto",
+    "editor.tabSize": 2,
+    "editor.tabCompletion": "on"    
+}
